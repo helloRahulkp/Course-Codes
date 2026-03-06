@@ -2,3 +2,4 @@ matplotlib
 pandas
 xlrd
 openpyxl
+nba_api
