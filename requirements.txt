@@ -4,3 +4,4 @@ xlrd
 openpyxl
 nba_api
 randomuser
+bs4
