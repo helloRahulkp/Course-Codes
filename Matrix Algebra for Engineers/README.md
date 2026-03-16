@@ -1,115 +1,65 @@
-# Geometry and Calculus for Computing — Course Completion
+# Matrix Algebra for Engineers
 
-## 📚 Course Overview
+## Course Completion
 
-This repository documents the successful completion of the **Geometry and Calculus for Computing** course on **Coursera**. The course focuses on the mathematical foundations required for computer science, machine learning, artificial intelligence, computer graphics, and data science.
+This repository documents the completion of the **Matrix Algebra for Engineers** course on Coursera. The course focuses on the mathematical foundations of matrix algebra and its applications in engineering, computer science, and data-driven fields.
 
-It covers core concepts from **geometry**, **differential calculus**, and **multivariable calculus**, emphasizing their applications in computing and algorithmic problem solving.
+## About the Course
 
----
+Matrix algebra is a fundamental tool used in many areas such as machine learning, artificial intelligence, signal processing, computer graphics, control systems, and scientific computing.
 
-## 🎯 Learning Objectives
+This course provides a structured introduction to matrices, linear systems, vector spaces, and matrix transformations that are widely used in modern engineering and computational applications.
 
-The primary objectives of this course were to:
+## Key Topics Covered
 
-- Develop a strong understanding of **geometric representations in computing**
-- Learn **calculus concepts used in optimization and machine learning**
-- Understand how **derivatives and gradients are used in algorithms**
-- Build intuition for **multivariable functions and vector calculus**
-- Apply mathematical reasoning to **computational problems**
+The course includes the following core topics:
 
----
+- Scalars, vectors, and matrices
+- Matrix addition, subtraction, and multiplication
+- Identity matrix and inverse matrices
+- Determinants and their properties
+- Solving systems of linear equations
+- Gaussian elimination
+- Vector spaces and linear independence
+- Eigenvalues and eigenvectors
+- Matrix diagonalization
+- Matrix factorization concepts
 
-## 🧠 Key Topics Covered
+## Skills Acquired
 
-### 1. Geometry Fundamentals
+After completing this course, the following skills were developed:
 
-- Coordinate systems
-- Vectors and vector operations
-- Dot product and cross product
-- Distance and angle calculations
-- Geometric transformations
+- Understanding mathematical representation of engineering systems
+- Solving linear systems using matrix methods
+- Performing matrix operations programmatically
+- Interpreting eigenvalues and eigenvectors
+- Applying matrix concepts to computational problems
+- Strengthening mathematical foundations required for advanced fields like AI, Machine Learning, and Data Science
 
-### 2. Differential Calculus
+## Relevance to Engineering and Computing
 
-- Limits and continuity
-- Derivatives and differentiation rules
-- Product rule
-- Quotient rule
-- Chain rule
+Matrix algebra plays a critical role in many modern technologies:
 
-### 3. Multivariable Calculus
+- **Machine Learning & AI** – model training, optimization, neural networks
+- **Computer Graphics** – transformations, rotations, projections
+- **Signal Processing** – filtering and system representation
+- **Data Science** – dimensionality reduction and statistical modeling
+- **Control Systems** – system state representation
 
-- Partial derivatives
-- Gradient vectors
-- Directional derivatives
-- Multivariable functions
+## Certificate
 
-### 4. Applications in Computing
+The official certificate for the course was awarded through **Coursera** upon successful completion.
 
-- Optimization techniques
-- Gradient-based learning algorithms
-- Backpropagation intuition
-- Mathematical foundations for machine learning models
+## Repository Purpose
 
----
+This repository serves as a record of learning and academic progress in advanced mathematical foundations relevant to engineering and computational sciences.
 
-## 💻 Skills Acquired
+## Author
 
-Through this course, the following technical skills were strengthened:
-
-- Mathematical reasoning for computing
-- Calculus for machine learning
-- Vector mathematics
-- Problem-solving using derivatives
-- Analytical thinking in algorithm design
-
----
-
-## 🚀 Relevance to AI / Machine Learning
-
-Geometry and calculus are fundamental tools used in modern AI systems. Concepts learned in this course are directly applied in:
-
-- Neural network training
-- Gradient descent optimization
-- Computer graphics and simulations
-- Data science modeling
-- Robotics and motion planning
-
----
-
-## 🏆 Certificate
-
-This repository serves as documentation of the completion of the **Geometry and Calculus for Computing** course on Coursera.
-
----
-
-## 📖 Why This Course Matters
-
-Understanding geometry and calculus provides the mathematical backbone required to build and understand advanced computational systems. These concepts play a crucial role in fields such as:
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Data Science
-- Scientific Computing
-
----
-
-## 📌 Author
-
-**RAHUL KP KURUP**
-MSc Computer Science Student
+**RAHUL KP KURUP**  
+MSc Computer Science  
 University of Calicut
 
-Focused on **AI Engineering, Machine Learning, and Generative AI**.
+## License
 
----
-
-## 🔗 Platform
-
-Course completed on **Coursera**.
-
----
-
-⭐ _This repository represents my continuous effort to strengthen the mathematical foundations required for AI, Machine Learning, and advanced computing._
+This repository is intended for educational and portfolio purposes.
