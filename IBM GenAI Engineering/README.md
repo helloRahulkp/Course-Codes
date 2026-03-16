@@ -1,47 +1,120 @@
-# IBM Generative AI Engineering — Learning Repository
+# IBM Generative AI Engineering
 
-[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)  
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-green)](https://github.com/rahulkpkurup)
+## Overview
 
----
+This repository documents the completion of the **IBM Generative AI Engineering Professional Course** offered on **Coursera**.  
+The course focuses on the practical and theoretical foundations required to design, build, and deploy **Generative AI systems** using modern AI frameworks and tools.
 
-## **📚 About This Repository**
-
-This repository is a **personal learning archive** for the **IBM Generative AI Engineering Professional Certificate** on Coursera. It contains my insights, notes, experiments, and mini-projects across all **16 courses** of the program.
-
-The goal of this repo is to:
-
-- Document my learning journey in Generative AI.
-- Maintain clean, modular, and professional project structure.
-- Showcase practical implementation of concepts like **LLMs, Transformers, Diffusion Models, GANs**, and **AI deployment**.
-- Serve as a reference for portfolio projects and real-world GenAI applications.
+Generative AI is one of the most rapidly advancing areas in artificial intelligence, enabling machines to generate human-like text, code, images, and intelligent responses. This course provided hands-on experience in building AI-powered applications using **Large Language Models (LLMs)** and modern AI development frameworks.
 
 ---
 
-## **🗂 Repository Structure**
+## Course Objectives
 
-```text
-IBM-GenAI-Engineering/
-├─ README.md
-├─ requirements.txt
+The primary objectives of this course were to:
 
-```
+- Understand the fundamentals of **Generative AI**
+- Learn how **Large Language Models (LLMs)** work
+- Develop skills in **Prompt Engineering**
+- Build real-world **Generative AI applications**
+- Work with **AI APIs and development frameworks**
+- Implement **Retrieval-Augmented Generation (RAG) systems**
+- Deploy AI solutions responsibly and efficiently
 
-🚀 Future Plans
+---
 
-Complete all 16 courses and update corresponding notebooks & notes.
+## Topics Covered
 
-Build a final capstone project integrating LLMs, diffusion models, and deployment pipelines.
+### 1. Introduction to Generative AI
 
-Explore advanced topics like responsible AI, bias mitigation, and multi-modal GenAI.
+- Fundamentals of generative models
+- Applications of generative AI in modern technology
+- Overview of foundation models and LLM architectures
 
-Share insights and polished projects as a portfolio for potential MNC roles in AI/ML.
+### 2. Prompt Engineering
 
-📌 References & Resources
+- Prompt design principles
+- Zero-shot and few-shot prompting
+- Chain-of-thought prompting techniques
+- Prompt optimization strategies
 
-IBM Generative AI Engineering Professional Certificate — Coursera
+### 3. Large Language Models (LLMs)
 
-Official documentation for Python, Jupyter, PyTorch, and Hugging Face Transformers.
+- Understanding transformer-based models
+- Model capabilities and limitations
+- Working with pretrained models
 
-Academic references: research papers on Transformers, GANs, and Diffusion Models.
+### 4. Retrieval-Augmented Generation (RAG)
+
+- Integrating external knowledge with LLMs
+- Building AI systems that retrieve and generate responses
+- Working with embeddings and vector search
+
+### 5. Generative AI Application Development
+
+- Designing AI-powered applications
+- Integrating LLMs with software systems
+- Building intelligent assistants and automation tools
+
+### 6. AI Tools and Frameworks
+
+Hands-on experience with tools such as:
+
+- **Python**
+- **LangChain**
+- **Hugging Face**
+- **Vector Databases**
+- **LLM APIs**
+- **Prompt engineering tools**
+
+### 7. Responsible AI
+
+- Ethical considerations in AI development
+- Bias, safety, and fairness in generative systems
+- Best practices for responsible deployment
+
+---
+
+## Skills Gained
+
+Through this course, the following technical skills were developed:
+
+- Designing structured prompts for LLMs
+- Building **Generative AI pipelines**
+- Developing **AI-powered applications**
+- Implementing **Retrieval-Augmented Generation (RAG)** systems
+- Integrating **vector databases and embeddings**
+- Understanding **LLM architecture and behavior**
+
+---
+
+## Applications of Generative AI
+
+The knowledge from this course can be applied in areas such as:
+
+- AI chatbots and conversational agents
+- Automated content generation
+- Code generation assistants
+- Intelligent search systems
+- Knowledge retrieval platforms
+- AI-based productivity tools
+
+---
+
+## Certificate
+
+The certificate for **IBM Generative AI Engineering** was awarded through **Coursera** upon successful completion of all required modules and assessments.
+
+---
+
+## Author
+
+**RAHUL KP KURUP**  
+MSc Computer Science  
+University of Calicut
+
+---
+
+## Purpose of This Repository
+
+This repository serves as a record of academic learning and skill development in **Generative AI Engineering**, contributing to a broader goal of building expertise in **Artificial Intelligence and Machine Learning**.
