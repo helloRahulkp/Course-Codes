@@ -11,7 +11,7 @@ img_url = 'https://storage.googleapis.com/sfr-vision-language-research/BLIP/demo
 raw_image = Image.open(requests.get(img_url, stream=True).raw).convert('RGB')
 
 # Specify the question you want to ask about the image
-question = "What is in the image?"
+question = "What is in the image"
 
 # Use the processor to prepare inputs for VQA (image + question)
 inputs = processor(raw_image, question, return_tensors="pt")
